@@ -1,0 +1,25 @@
+{
+  "name": "fcc-projects",
+  "version": "1.0.0",
+  "description": "joswal freecodecamp projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "algorithms",
+    "projects",
+    "front",
+    "end",
+    "api",
+    "microservices",
+    "data",
+    "visualization",
+    "responsive",
+    "web",
+    "libraries"
+  ],
+  "author": "joswal",
+  "license": "ISC"
+}
