@@ -6,9 +6,9 @@ This repository contains my solved [freeCodeCamp](https://www.freecodecamp.org) 
 
 ### freeCodeCamp Certifications
 
-- [ ] responsive web design projects
-- [x] JavaScript algorithm and data structure projects
-- [ ] api and micro-services projects
+- [ ] [Responsive web design projects](https://github.com/joswal/fcc_projects/tree/master/responsive_web_projects)
+- [x] [JavaScript algorithm and data structure projects](https://github.com/joswal/fcc_projects/tree/master/algorithm_projects)
+- [ ] [Api and micro-services projects](https://github.com/joswal/fcc_projects/tree/master/api_projects)
 - [ ] data visualization projects
 - [ ] front end library projects
 - [ ] Information Security and Quality Assurance
