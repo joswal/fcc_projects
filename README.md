@@ -13,6 +13,28 @@ This repository contains my solved [freeCodeCamp](https://www.freecodecamp.org) 
 - [ ] front end library projects
 - [ ] Information Security and Quality Assurance
 
+## Javascript Algorithms and data structure
+
+- [**Caesars Cipher**](https://github.com/joswal/fcc_projects/blob/master/algorithm_projects/caesars_cipher.js)
+
+  <sup>_#JavaScript, #ROT13, #Algorithms_</sup>
+
+- [**Cash Register**](https://github.com/joswal/fcc_projects/blob/master/algorithm_projects/cash_register.js)
+
+  <sup>_#JavaScript, #Algorithms_</sup>
+
+- [**Palindrome Checker**](https://github.com/joswal/fcc_projects/blob/master/algorithm_projects/cash_register.js)
+
+  <sup>_#JavaScript, #Algorithms_</sup>
+
+- [**Roman Numerals**](https://github.com/joswal/fcc_projects/blob/master/algorithm_projects/roman_numerals.js)
+
+  <sup>_#JavaScript, #Algorithms_</sup>
+
+- [**Telephone Validator**](https://github.com/joswal/fcc_projects/blob/master/algorithm_projects/telephone_validator.js)
+
+  <sup>_#JavaScript, #Algorithms_</sup>
+
 ## Api and Microservices
 
 - [**Timestamp Microservice**](https://github.com/joswal/fcc_projects/tree/master/api_projects/timestamp)
