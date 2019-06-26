@@ -1,5 +1,6 @@
 {
   "name": "fcc-projects",
+  "author": "joswal",
   "version": "1.0.0",
   "description": "joswal freecodecamp projects",
   "main": "index.js",
