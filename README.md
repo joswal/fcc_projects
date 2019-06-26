@@ -21,7 +21,7 @@ This repository contains my solved [freeCodeCamp](https://www.freecodecamp.org) 
 
   <sup>_#JavaScript, #Node.js, #cors, #express.js_</sup>
 
-- [**Request Header Microservice**](https://github.com/joswal/fcc_projects/tree/master/api_projects/timestamp)
+- [**Request Header Microservice**](https://github.com/joswal/fcc_projects/tree/master/api_projects/request_header)
 
   > usage : you can test it out on [right-anchovy.glitch.me/api/whoami](https://right-anchovy.glitch.me/api/whoami)
 
