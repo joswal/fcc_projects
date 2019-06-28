@@ -55,7 +55,7 @@ This repository contains my solved [freeCodeCamp](https://www.freecodecamp.org) 
 
   <sup>_#JavaScript, #Node.js, #cors, #express.js, #mongodb, #mongoose_</sup>
 
-- [**Exercise Tracker Microservice**](https://github.com/joswal/fcc_projects/tree/master/api_projects/url_shortner)
+- [**Exercise Tracker Microservice**](https://github.com/joswal/fcc_projects/tree/master/api_projects/exercise_tracker)
 
   <sup>_#JavaScript, #Node.js, #cors, #express.js, #mongodb, #mongoose_</sup>
 
